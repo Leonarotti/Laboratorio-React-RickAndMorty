@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Laboratorio-React-RickAndMorty/build/static/css/main.9c5ea9c8.css",
+    "main.js": "/Laboratorio-React-RickAndMorty/build/static/js/main.72bcdd41.js",
+    "static/js/453.24e14e44.chunk.js": "/Laboratorio-React-RickAndMorty/build/static/js/453.24e14e44.chunk.js",
+    "static/media/rick-morty.png": "/Laboratorio-React-RickAndMorty/build/static/media/rick-morty.ed9fa0be01b38da56af4.png",
+    "index.html": "/Laboratorio-React-RickAndMorty/build/index.html",
+    "main.9c5ea9c8.css.map": "/Laboratorio-React-RickAndMorty/build/static/css/main.9c5ea9c8.css.map",
+    "main.72bcdd41.js.map": "/Laboratorio-React-RickAndMorty/build/static/js/main.72bcdd41.js.map",
+    "453.24e14e44.chunk.js.map": "/Laboratorio-React-RickAndMorty/build/static/js/453.24e14e44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5ea9c8.css",
+    "static/js/main.72bcdd41.js"
+  ]
+}
